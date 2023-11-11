@@ -1,3 +1,0 @@
-The default module for the ansible command-l
-ine utility is the ansible.builtin.command module. You can use a
-n ad hoc task to call the command module and reboot all web servers in Atlanta, 10 at a time. Before Ansible can do
